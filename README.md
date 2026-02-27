@@ -102,7 +102,7 @@ Dynamic filtering using slicers
 
 User-friendly layout for easy insights
 
-6.**Screenshots **
+6. Screenshots
 
 (https://github.com/khushbirkaur/Retail_data_analysis-dashboard/blob/main/example%20image%201.jpeg).
 
