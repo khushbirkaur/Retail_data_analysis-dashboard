@@ -104,7 +104,10 @@ User-friendly layout for easy insights
 
 6.**Screenshots **
 (https://github.com/khushbirkaur/Retail_data_analysis-dashboard/blob/main/example%20image%201.jpeg).
+
 (https://github.com/khushbirkaur/Retail_data_analysis-dashboard/blob/main/example%20image%202.jpeg).
+
 (https://github.com/khushbirkaur/Retail_data_analysis-dashboard/blob/main/example%20image%203.jpeg).
+
 (https://github.com/khushbirkaur/Retail_data_analysis-dashboard/blob/main/example%20image%204.jpeg).
 
