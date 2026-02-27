@@ -1,6 +1,8 @@
 # Retail_data_analysis-dashboard
 📊 Retail Data Analysis Project
+
 1. **Project Overview**
+
 This project focuses on analyzing retail data to uncover meaningful insights about customers, products, sales, and marketing campaigns.
 The dashboard helps businesses make data-driven decisions by identifying patterns, trends, and opportunities for growth.
 The goal of this project is to transform raw transactional data into interactive visualizations and actionable insights using Power BI.
@@ -30,42 +32,43 @@ Products and categories
 Campaign and coupon data
 
 5. **Features & Highlights**
-📌 A. Customer Demographic Analysis
+
+📌 A. Customer Demographic Analysis:
 
 Analyzed household distribution based on different demographic factors
 Identified high-value customer segments
 
-📌 B. Campaign & Coupon Analysis
+📌 B. Campaign & Coupon Analysis:
 
 Measured coupon redemption rates
 Compared performance across different campaigns
 Identified the most effective campaign types
 
-📌 C. Product Analysis
+📌 C. Product Analysis:
 
 Identified top-selling products and categories
 Compared total sales across departments
 Analyzed product contribution to overall revenue
 
-📌 D. Transaction Analysis
+📌 D. Transaction Analysis:
 
 Evaluated total sales, discounts, and transaction volume
 Identified trends in coupon discounts
 Measured sales contribution by different factors
 
-📌 E. Sales & Revenue Insights
+📌 E. Sales & Revenue Insights:
 
 Analyzed overall revenue performance
 Identified peak sales periods
 Compared weekly sales variations
 
-📌 F. Time Series Analysis
+📌 F. Time Series Analysis:
 
 Explored sales trends over time
 Analyzed seasonality and cyclic patterns
 Studied correlation between sales and coupon redemptions
 
-📌 G. Market Basket Analysis
+📌 G. Market Basket Analysis:
 
 Discovered frequently purchased product pairs
 Identified cross-selling opportunities
