@@ -8,37 +8,25 @@ The goal of this project is to transform raw transactional data into interactive
 2. **Purpose of the Project**
 
 To analyze customer demographics and purchasing behavior
-
 To evaluate campaign effectiveness and coupon usage
-
 To identify top-performing products and categories
-
 To understand sales trends and seasonal patterns
-
 To discover product associations using market basket analysis
 
 3. **Tech Stack**
 
 Power BI – Data visualization and dashboard creation
-
 DAX (Data Analysis Expressions) – Calculations and KPIs
-
 Power Query – Data cleaning and transformation
-
 Excel / CSV – Data storage format
 
 4. **Data Source**
 
 Dataset sourced from Kaggle Retail Dataset
-
 Contains information related to:
-
 Customer demographics
-
 Transactions and sales
-
 Products and categories
-
 Campaign and coupon data
 
 5. **Features & Highlights**
@@ -70,6 +58,7 @@ Measured sales contribution by different factors
 Analyzed overall revenue performance
 Identified peak sales periods
 Compared weekly sales variations
+
 📌 F. Time Series Analysis
 
 Explored sales trends over time
