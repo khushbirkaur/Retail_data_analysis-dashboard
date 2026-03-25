@@ -1,6 +1,15 @@
 # Retail_data_analysis-dashboard
 📊 Retail Data Analysis Project
 
+## Power BI Dashboard File
+
+Due to GitHub file size limitations, the Power BI (.pbix) file is hosted on Google Drive.
+
+Download the PBIX file here:
+[https://drive.google.com/your-link-here](https://drive.google.com/file/d/1NwppEMF8C7z6RW3IQEm7_8SydxDOlnnX/view?usp=sharing)
+
+After downloading, open it using Power BI Desktop.
+
 1. **Project Overview**
 
 This project focuses on analyzing retail data to uncover meaningful insights about customers, products, sales, and marketing campaigns.
